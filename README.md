@@ -1,6 +1,6 @@
 # Awesome EPUB Reader
 
-Welcome to **Awesome EPUB Reader**! This is a browser-based EPUB reader designed to provide a seamless reading experience with a clean user interface. Whether you're reading novels, textbooks, or any other EPUB content, my reader is here to enhance your reading journey.
+Welcome to **Awesome EPUB Reader**! This is a browser-based EPUB reader based off of epub.js designed to provide a seamless reading experience with a clean user interface. Whether you're reading novels, textbooks, or any other EPUB content, my reader is here to enhance your reading journey.
 
 ## Features
 

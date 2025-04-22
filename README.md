@@ -29,7 +29,7 @@ Welcome to **Awesome EPUB Reader** - a modern, browser-based EPUB reader powered
 
 ## 🚀 Live Demo
 
-Experience the reader now: [Demo Link](#) (coming soon)
+Experience the reader now: [Site Link](https://awesome-epub-reader.pages.dev/)
 
 ## 🛠️ Installation & Usage
 

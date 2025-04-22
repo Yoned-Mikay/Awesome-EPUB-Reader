@@ -20,11 +20,11 @@ To run Awesome EPUB Reader locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yoned-Mikay/awesome-epub-reader.git
+   git clone https://github.com/Yoned-Mikay/Awesome-EPUB-Reader.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd awesome-epub-reader
+   cd Awesome-EPUB-Reader
    ```
 3. Open `index.html` in your web browser.
 
